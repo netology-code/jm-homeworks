@@ -12,8 +12,8 @@
 
 ### Блок 2. InMemory хранение данных — коллекции
 
-1. [Generics в коллекциях и методах](generics)  
-2. [Коллекции List](list)  
-3. [Коллекции HashMap и HashSet](hash-collections)  
-4. [Коллекции Treemap и TreeSet](tree-collections)  
-5. [Коллекции Queue](queue)  
+5. [Generics в коллекциях и методах](generics)  
+6. [Коллекции List](list)  
+7. [Коллекции HashMap и HashSet](hash-collections)  
+8. [Коллекции Treemap и TreeSet](tree-collections)  
+9. [Коллекции Queue](queue)  
